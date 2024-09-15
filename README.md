@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ItzOwo</h1>
 <h3 align="center">A passionate developer from the UK</h3>
 
-- 🔭 I’m currently working on [Expedite Optimizer](https://discord.gg/PEg2PpYNwv)
+- 🔭 I’m currently working on [Comet SMP](https://discord.gg/n9nfrvscDq)
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **itzowo81@gmail.com**
 
-- ⚡ Fun fact **I own a YouTube channel with 30k+ Subscribers**
+- ⚡ Fun fact **I own a YouTube channel with 50k+ Subscribers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
